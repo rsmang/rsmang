@@ -18,6 +18,7 @@
   <img alt="Yocto" src="https://img.shields.io/badge/-Yocto-424242?style=flat-square&logo=yocto&logoColor=white" />
   <img alt="EdgeX" src="https://img.shields.io/badge/-EdgeX-95314C?style=flat-square&logo=edgex&logoColor=white" />
   <img alt="mqtt" src="https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-0044AA?style=flat-square&logo=subversion&logoColor=white" />
