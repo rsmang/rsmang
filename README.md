@@ -7,6 +7,7 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> 
   <img alt="LinuxDeviceDriver" src="https://img.shields.io/badge/-LinuxDeviceDriver-9431DE?style=flat-square&logo=linuxdevicedriver&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
   <img alt="InfluxDB" src="https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
