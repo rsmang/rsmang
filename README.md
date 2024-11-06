@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514872/8868/blob_cozy.png?1643514872" width="30"/> Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514872/8868/blob_cozy.png?1643514872" width="30"/> Pleased to meet you.</h1>
 
 <!--<p>Welcome!</p>-->
 <h3>What I've experienced and like</h3>
