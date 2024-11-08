@@ -3,7 +3,7 @@
 <!--<p>Welcome!</p>-->
 <h3>What I've experienced and like</h3>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-6D737A?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
   <img alt="LinuxDeviceDriver" src="https://img.shields.io/badge/-LinuxDeviceDriver-9431DE?style=for-the-badge&logo=linuxdevicedriver&logoColor=white" />
   <img alt="U-Boot" src="https://img.shields.io/badge/-UBoot-FFCC88?style=for-the-badge&logo=uboot&logoColor=white" />
