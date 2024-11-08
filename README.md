@@ -17,12 +17,12 @@
   <img alt="EdgeX" src="https://img.shields.io/badge/-EdgeX-95314C?style=for-the-badge&logo=edgex&logoColor=white" />
   <img alt="mqtt" src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img alt="qt" src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-0044AA?style=for-the-badge&logo=subversion&logoColor=white" />
   <img alt="Buildroot" src="https://img.shields.io/badge/-Buildroot-E6E82A?style=for-the-badge&logo=buildroot&logoColor=white" />
   <img alt="OpenWrt" src="https://img.shields.io/badge/-OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img alt="Yocto" src="https://img.shields.io/badge/-Yocto-424242?style=for-the-badge&logo=yocto&logoColor=white" />
+  <img alt="qt" src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img alt="Xubuntu" src="https://img.shields.io/badge/-Xubuntu-0044AA?style=for-the-badge&logo=xubuntu&logoColor=white" />
   <img alt="fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="gentoo" src="https://img.shields.io/badge/-Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
