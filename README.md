@@ -22,7 +22,7 @@
   <img alt="Buildroot" src="https://img.shields.io/badge/-Buildroot-E6E82A?style=for-the-badge&logo=buildroot&logoColor=white" />
   <img alt="OpenWrt" src="https://img.shields.io/badge/-OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" />
   <img alt="Yocto" src="https://img.shields.io/badge/-Yocto-424242?style=for-the-badge&logo=yocto&logoColor=white" />
-  <img alt="qt" src="https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img alt="qt" src="https://img.shields.io/badge/-Qt-37AB44?style=for-the-badge&logo=qt&logoColor=white" />
   <img alt="Xubuntu" src="https://img.shields.io/badge/-Xubuntu-0044AA?style=for-the-badge&logo=xubuntu&logoColor=white" />
   <img alt="fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="gentoo" src="https://img.shields.io/badge/-Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
