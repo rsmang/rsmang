@@ -5,9 +5,10 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-6D737A?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Go-0189AB?style=for-the-badge&logo=go&logoColor=white" /> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D1BB18?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="GNUBash" src="https://img.shields.io/badge/-GNUBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="LinuxDeviceDriver" src="https://img.shields.io/badge/-LinuxDeviceDriver-9431DE?style=for-the-badge&logo=linuxdevicedriver&logoColor=white" />
   <img alt="U-Boot" src="https://img.shields.io/badge/-UBoot-BF9A6A?style=for-the-badge&logo=uboot&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D1BB18?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
@@ -15,7 +16,6 @@
   <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-508F51?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="GNUBash" src="https://img.shields.io/badge/-GNUBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="EdgeX" src="https://img.shields.io/badge/-EdgeX-95314C?style=for-the-badge&logo=edgex&logoColor=white" />
   <img alt="mqtt" src="https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
