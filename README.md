@@ -6,6 +6,7 @@
   <img alt="C" src="https://img.shields.io/badge/-C-6D737A?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Go-0189AB?style=for-the-badge&logo=go&logoColor=white" /> 
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D1BB18?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2E6EB3?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="GNUBash" src="https://img.shields.io/badge/-GNUBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img alt="LinuxDeviceDriver" src="https://img.shields.io/badge/-LinuxDeviceDriver-9431DE?style=for-the-badge&logo=linuxdevicedriver&logoColor=white" />
   <img alt="U-Boot" src="https://img.shields.io/badge/-UBoot-BF9A6A?style=for-the-badge&logo=uboot&logoColor=white" />
