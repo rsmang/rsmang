@@ -7,6 +7,8 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Go-0189AB?style=for-the-badge&logo=go&logoColor=white" /> 
   <img alt="LinuxDeviceDriver" src="https://img.shields.io/badge/-LinuxDeviceDriver-9431DE?style=for-the-badge&logo=linuxdevicedriver&logoColor=white" />
   <img alt="U-Boot" src="https://img.shields.io/badge/-UBoot-BF9A6A?style=for-the-badge&logo=uboot&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D1BB18?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
   <img alt="InfluxDB" src="https://img.shields.io/badge/-InfluxDB-1784BF?style=for-the-badge&logo=influxdb&logoColor=white" />
